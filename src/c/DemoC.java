@@ -5,5 +5,7 @@ public class DemoC {
 		System.out.println("Wednesday is today");
 		System.out.println("Batch 11 Git Lecture");
 		System.out.println("&&&&&&&&&&&&&&&&&&&&&&");
+		System.out.println("&&&&&&&&&&&&&&&&&&&&&&");
+		System.out.println("&&&&&&&&&&&&&&&&&&&&&&");
 	}
 }
