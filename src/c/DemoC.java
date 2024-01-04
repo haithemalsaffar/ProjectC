@@ -7,5 +7,6 @@ public class DemoC {
 		System.out.println("&&&&&&&&&&&&&&&&&&&&&&");
 		System.out.println("%%%%%%%%%%%%%%%%%%%%%%");
 		System.out.println("&&&&&&&&&&&&&&&&&&&&&&");
+		System.out.println("PPPPPPPPPPPPPPPPPPPPPP");
 	}
 }
